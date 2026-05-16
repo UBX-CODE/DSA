@@ -11,7 +11,7 @@
 */
 import java.util.*;
 
-public class Pattern4 {
+public class Pattern04 {
     public static void main(String argS[]){
         int n = 5;
         for(int i=0; i<n; i++){

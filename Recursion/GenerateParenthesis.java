@@ -10,7 +10,7 @@ public class GenerateParenthesis{
         }
         if(open < n){
             backtrack(result, current + "(", open + 1, close, n);
-        }
+        } 
         if(close < open){
             backtrack(result, current + ")", open, close + 1, n);
         }

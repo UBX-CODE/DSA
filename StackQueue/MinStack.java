@@ -1,7 +1,8 @@
+//Leetcode Q.155
+package StackQueue;
 import java.util.*;
 
-class MinStack {
-
+public class MinStack{
     Stack<Integer> stack;
     Stack<Integer> minStack;
 
@@ -30,9 +31,7 @@ class MinStack {
     public int getMin() {
         return minStack.peek();
     }
-}
 
-public class Main {
     public static void main(String[] args) {
 
         MinStack ms = new MinStack();
@@ -44,9 +43,8 @@ public class Main {
 
         System.out.println("Min = " + ms.getMin());
         ms.pop();
-
+        System.out.println("Top = " + ms.top());
         System.out.println("Min = " + ms.getMin());
 
-        System.out.println("Top = " + ms.top());
     }
 }

@@ -2,10 +2,10 @@
 
 # DSA
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Problems](https://img.shields.io/badge/Solutions-104-0A84FF?style=for-the-badge)](https://github.com/UBX-CODE/DSA)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/UBX0/)
-[![Status](https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Problems](https://img.shields.io/badge/Solutions-107-0A84FF?style=flat)](https://github.com/UBX-CODE/DSA)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/UBX0/)
+[![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat)]()
 
 **A curated collection of Data Structures & Algorithms solutions in Java**
 
@@ -66,11 +66,11 @@ graph LR
 | Arrays | 46 | Two pointers, prefix sum, sorting, matrices |
 | Strings | 13 | Hashing, sliding window, stack parsing |
 | Linked List | 10 | Fast/slow pointers, reversal, merging |
-| Recursion | 8 | Subsets, combinations, generate & sort |
+| Recursion | 11 | Subsets, combinations, grid DFS & backtracking |
 | Patterns | 24 | Loop & nested-loop fundamentals |
 | Stack + Queue | 2 | Monotonic stack, min stack design |
 | Binary Search | 1 | Classic search template |
-| **Total** | **104** | |
+| **Total** | **107** | |
 
 ---
 
@@ -178,16 +178,19 @@ graph LR
 ### Recursion & Backtracking
 
 <details>
-<summary><strong>8 problems</strong> — click to expand</summary>
+<summary><strong>11 problems</strong> — click to expand</summary>
 
 | Problem | LC # | File |
 |:--------|:----:|:-----|
+| Letter Combinations of a Phone Number | [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [`LetterCombination.java`](Recursion/LetterCombination.java) |
 | Generate Parentheses | [22](https://leetcode.com/problems/generate-parentheses/) | [`GenerateParenthesis.java`](Recursion/GenerateParenthesis.java) |
 | Combination Sum | [39](https://leetcode.com/problems/combination-sum/) | [`CombinationSum.java`](Recursion/CombinationSum.java) |
 | Combination Sum II | [40](https://leetcode.com/problems/combination-sum-ii/) | [`CombinationSumII.java`](Recursion/CombinationSumII.java) |
 | Pow(x, n) | [50](https://leetcode.com/problems/powx-n/) | [`PowXN.java`](Recursion/PowXN.java) |
 | Subsets | [78](https://leetcode.com/problems/subsets/) | [`SubSets.java`](Recursion/SubSets.java) |
+| Word Search | [79](https://leetcode.com/problems/word-search/) | [`WordSearch.java`](Recursion/WordSearch.java) |
 | Subsets II | [90](https://leetcode.com/problems/subsets-ii/) | [`SubsetsII.java`](Recursion/SubsetsII.java) |
+| Palindrome Partitioning | [131](https://leetcode.com/problems/palindrome-partitioning/) | [`PalindromePartitioning.java`](Recursion/PalindromePartitioning.java) |
 | Reverse a Stack | — | [`ReverseStack.java`](Recursion/ReverseStack.java) |
 | Sort a Stack | — | [`SortStack.java`](Recursion/SortStack.java) |
 
@@ -262,7 +265,7 @@ graph LR
 | **Binary Search** | Search in Rotated Sorted Array, Find Peak Element |
 | **Fast & Slow Pointers** | Linked List Cycle, Middle of Linked List |
 | **Stack / Monotonic Stack** | Valid Parentheses, Next Greater Element, Largest Rectangle |
-| **Backtracking** | Subsets, Combination Sum, Generate Parentheses |
+| **Backtracking** | Subsets, Combination Sum, Word Search, Palindrome Partitioning |
 | **Matrix Traversal** | Spiral Matrix, Rotate Matrix, Set Matrix Zeroes |
 | **Greedy** | Jump Game, Gas Station, Partition Labels |
 

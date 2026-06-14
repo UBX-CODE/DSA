@@ -3,7 +3,7 @@
 # DSA
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Problems](https://img.shields.io/badge/Solutions-107-0A84FF?style=flat)](https://github.com/UBX-CODE/DSA)
+[![Problems](https://img.shields.io/badge/Solutions-109-0A84FF?style=flat)](https://github.com/UBX-CODE/DSA)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/UBX0/)
 [![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat)]()
 
@@ -35,8 +35,7 @@ DSA/
 ├── Strings/          # String manipulation, hashing & window techniques
 ├── LinkedList/       # Singly linked list classic problems
 ├── Recursion/        # Backtracking, subsets, combinations & stack recursion
-├── Stack+Queue/      # Stack-based design problems
-├── BinarySearch/     # Core binary search templates
+├── StackQueue/       # Stack-based design problems
 └── patterns/         # Star & pyramid pattern practice (01–24)
 ```
 
@@ -68,9 +67,8 @@ graph LR
 | Linked List | 10 | Fast/slow pointers, reversal, merging |
 | Recursion | 11 | Subsets, combinations, grid DFS & backtracking |
 | Patterns | 24 | Loop & nested-loop fundamentals |
-| Stack + Queue | 2 | Monotonic stack, min stack design |
-| Binary Search | 1 | Classic search template |
-| **Total** | **107** | |
+| Stack + Queue | 5 | Monotonic stack, min stack design, parenthese matching |
+| **Total** | **109** | |
 
 ---
 
@@ -203,16 +201,13 @@ graph LR
 
 | Problem | LC # | File |
 |:--------|:----:|:-----|
-| Min Stack | [155](https://leetcode.com/problems/min-stack/) | [`MinStack.java`](Stack+Queue/MinStack.java) |
-| Next Greater Element I | [496](https://leetcode.com/problems/next-greater-element-i/) | [`NextGreaterElement1.java`](Stack+Queue/NextGreaterElement1.java) |
+| Min Stack | [155](https://leetcode.com/problems/min-stack/) | [`MinStack.java`](StackQueue/MinStack.java) |
+| Next Greater Element I | [496](https://leetcode.com/problems/next-greater-element-i/) | [`NextGreaterElement1.java`](StackQueue/NextGreaterElement1.java) |
+| Valid Parentheses | [20](https://leetcode.com/problems/valid-parentheses/) | [`ValidParentheses.java`](StackQueue/ValidParentheses.java) |
+| Daily Temperatures | [739](https://leetcode.com/problems/daily-temperatures/) | [`Dailytemp.java`](StackQueue/Dailytemp.java) |
+| Online Stock Span | [901](https://leetcode.com/problems/online-stock-span/) | [`StockSpan.java`](StackQueue/StockSpan.java) |
 
 </details>
-
-### Binary Search
-
-| Problem | LC # | File |
-|:--------|:----:|:-----|
-| Binary Search | [704](https://leetcode.com/problems/binary-search/) | [`BinarySearch.java`](BinarySearch/BinarySearch.java) |
 
 ---
 

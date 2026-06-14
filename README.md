@@ -197,7 +197,7 @@ graph LR
 ### Stack & Queue
 
 <details>
-<summary><strong>2 problems</strong> — click to expand</summary>
+<summary><strong>5 problems</strong> — click to expand</summary>
 
 | Problem | LC # | File |
 |:--------|:----:|:-----|

@@ -1,6 +1,13 @@
 <div align="center">
 
 # DSA
+  <td width="12%" align="center" valign="middle">
+    <img
+      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJqYmR0bG5qdmF0OGRjbmQyMXRqZnUxOTdpa2tud3ZwczdobGRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif"
+      width="100%"
+      alt="Developer Animation"
+    />
+  </td>
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Problems](https://img.shields.io/badge/Solutions-109-0A84FF?style=flat)](https://github.com/UBX-CODE/DSA)

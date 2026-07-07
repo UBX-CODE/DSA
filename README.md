@@ -9,11 +9,6 @@
     />
   </td>
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Problems](https://img.shields.io/badge/Solutions-109-0A84FF?style=flat)](https://github.com/UBX-CODE/DSA)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/UBX0/)
-[![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat)]()
-
 **A curated collection of Data Structures & Algorithms solutions in Java**
 
 Clean implementations, pattern-driven thinking, and interview-ready code — organized by topic for fast revision.

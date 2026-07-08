@@ -25,7 +25,6 @@ This repository is my personal **DSA practice vault** — a growing library of J
 
 Each solution is written to be **readable first**: straightforward logic, minimal abstraction, and comments where the approach isn't obvious. Problems are grouped by topic so you can drill a single pattern end-to-end.
 
-> **Repo:** [github.com/UBX-CODE/DSA](https://github.com/UBX-CODE/DSA)
 
 ---
 

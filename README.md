@@ -1,11 +1,13 @@
 <div align="center">
 
 # DSA
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Problems](https://img.shields.io/badge/Solutions-109-0A84FF?style=flat)](https://github.com/UBX-CODE/DSA)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/UBX0/)
-[![Status](https://img.shields.io/badge/Status-Active-22C55E?style=flat)]()
+  <td width="12%" align="center" valign="middle">
+    <img
+      src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJqYmR0bG5qdmF0OGRjbmQyMXRqZnUxOTdpa2tud3ZwczdobGRsNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s4ycVAVuJvXRvK0Rap/giphy.gif"
+      width="100%"
+      alt="Developer Animation"
+    />
+  </td>
 
 **A curated collection of Data Structures & Algorithms solutions in Java**
 
@@ -23,7 +25,6 @@ This repository is my personal **DSA practice vault** — a growing library of J
 
 Each solution is written to be **readable first**: straightforward logic, minimal abstraction, and comments where the approach isn't obvious. Problems are grouped by topic so you can drill a single pattern end-to-end.
 
-> **Repo:** [github.com/UBX-CODE/DSA](https://github.com/UBX-CODE/DSA)
 
 ---
 

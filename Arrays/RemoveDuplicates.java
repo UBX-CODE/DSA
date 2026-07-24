@@ -1,5 +1,5 @@
+//Leetcode Q.26
 package Arrays;
-import java.util.*;
 
 public class RemoveDuplicates {
     public static void main(String args[]) {

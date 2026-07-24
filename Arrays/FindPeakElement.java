@@ -1,6 +1,5 @@
 //Leetcode Q.162
 package Arrays;
-import java.util.*;
 
 public class FindPeakElement{
     public static void main(String args[]){

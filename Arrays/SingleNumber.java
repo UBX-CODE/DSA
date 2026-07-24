@@ -1,5 +1,5 @@
+//Leetcode Q.136
 package Arrays;
-import java.util.*;
 
 public class SingleNumber {
     public static void main(String args[]){

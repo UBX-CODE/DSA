@@ -1,6 +1,6 @@
+//Leetcode Q.125
 //Two Pointer
 package Arrays;
-import java.util.*;
 public class ValidPalindrome {
     public static void main(String args[]) {
 

@@ -1,6 +1,5 @@
 // Leetcode Q.55
 package Arrays;
-import java.util.*;
 
 public class JumpGame{
     public static void main(String args[]){

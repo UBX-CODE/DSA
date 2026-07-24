@@ -1,5 +1,5 @@
+//Leetcode Q.42
 package Arrays;
-import java.util.*;
 
 public class TrappingRainWater{
     public static void main(String args[]){

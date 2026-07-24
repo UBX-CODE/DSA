@@ -1,6 +1,6 @@
+//Leetcode Q.121
 // one pass / two pointer thinking
 package Arrays;
-import java.util.*;
 
 public class BestTimeToBuyAndSellStock {
     public static void main(String args[]){

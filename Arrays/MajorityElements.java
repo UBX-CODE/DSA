@@ -1,5 +1,5 @@
+//Leetcode Q.229
 package Arrays;
-import java.util.*;
 
 public class MajorityElements{
     public static void main(String args[]){

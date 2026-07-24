@@ -1,6 +1,5 @@
+//Leetcode Q.152
 package Arrays;
-import java.util.*;
-
 public class MaximumProductSubarray{
     public static void main(String args[]){
 

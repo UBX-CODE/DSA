@@ -1,5 +1,5 @@
+//Leetcode Q.1752
 package Arrays;
-import java.util.*;
 
 public class SortedAndRotated{
     public boolean check(int[] nums){

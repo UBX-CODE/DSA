@@ -1,6 +1,5 @@
 //Leetcode Q.41
 package Arrays;
-import java.util.*;
 
 public class FirstMissingPositive{
     public static void main(String args[]){

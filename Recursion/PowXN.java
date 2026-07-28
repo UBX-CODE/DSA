@@ -1,6 +1,5 @@
 //Leetcode Q.50
 package Recursion;
-import java.util.*;
 
 public class PowXN{
     public static double power(double x,long n){
